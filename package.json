@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-workflow",
+  "name": "rdc-sanity-plugin-workflow",
   "version": "1.0.4",
   "description": "A demonstration of a custom content publishing workflow using Sanity.",
   "keywords": [
