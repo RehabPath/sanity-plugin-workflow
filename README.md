@@ -24,13 +24,13 @@ This work demonstrates how a single plugin can define:
 ## Installation
 
 ```
-npm install --save sanity-plugin-workflow
+npm install --save-exact github:RehabPath/sanity-plugin-workflow
 ```
 
 or
 
 ```
-yarn add sanity-plugin-workflow
+# yarn install example here
 ```
 
 ## Usage
